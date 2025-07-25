@@ -52,9 +52,8 @@ const RICH_TITLE = true;
 // IF you outside China please make sure IS_CHINESE = false
 const IS_CHINESE = true;
 const USE_ANIMATION_FOR_GRID = false;
-const CHINESE_INFO_MESSAGE = (yearLength: number, year: string): string =>
-  `户外运动 ${yearLength} 年 ` +
-  (year === 'Total' ? '' : `，地图展示的是 ${year} 年的轨迹`);
+const CHINESE_INFO_MESSAGE = (): string =>
+  `生命不息，运动不止`;
 
 const ENGLISH_INFO_MESSAGE = (yearLength: number, year: string): string =>
   `Logged ${yearLength} Years of Outdoor Journey` +
