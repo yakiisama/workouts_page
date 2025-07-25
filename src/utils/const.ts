@@ -53,7 +53,7 @@ const RICH_TITLE = true;
 const IS_CHINESE = true;
 const USE_ANIMATION_FOR_GRID = false;
 const CHINESE_INFO_MESSAGE = (): string =>
-  `生命不息，运动不止`;
+  `生命不息，运动不止。`;
 
 const ENGLISH_INFO_MESSAGE = (yearLength: number, year: string): string =>
   `Logged ${yearLength} Years of Outdoor Journey` +
