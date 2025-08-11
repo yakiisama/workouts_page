@@ -286,5 +286,21 @@
 "elevation_gain": 14.6,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15407040278,
+"name": "Afternoon Walk",
+"distance": 2122.1,
+"moving_time": "0:36:31",
+"type": "Hike",
+"start_date": "2025-08-10 06:30:19+00:00",
+"start_date_local": "2025-08-10 14:30:19",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": null,
+"average_speed": 0.969,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 1
 }
 ]
