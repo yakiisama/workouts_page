@@ -302,5 +302,21 @@
 "elevation_gain": 0.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15477240951,
+"name": "Afternoon Swim",
+"distance": 700.0,
+"moving_time": "1:11:37",
+"type": "Swim",
+"start_date": "2025-08-16 08:54:09+00:00",
+"start_date_local": "2025-08-16 16:54:09",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 118.1,
+"average_speed": 0.163,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 1
 }
 ]
