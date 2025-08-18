@@ -318,5 +318,37 @@
 "elevation_gain": 0.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15487116456,
+"name": "Morning Run",
+"distance": 114.3,
+"moving_time": "0:01:11",
+"type": "Run",
+"start_date": "2025-08-17 00:39:50+00:00",
+"start_date_local": "2025-08-17 08:39:50",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 104.0,
+"average_speed": 1.61,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 15487116462,
+"name": "Morning Walk",
+"distance": 2010.4,
+"moving_time": "0:31:38",
+"type": "Hike",
+"start_date": "2025-08-17 00:41:14+00:00",
+"start_date_local": "2025-08-17 08:41:14",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 120.5,
+"average_speed": 1.059,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 2
 }
 ]
